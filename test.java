@@ -6,3 +6,4 @@ class test
 	}
 }
 //hai
+//hello
