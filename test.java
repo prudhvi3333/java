@@ -5,4 +5,4 @@ class test
 		System.out.println("welcom to java");
 	}
 }
-
+//hai
